@@ -52,3 +52,7 @@ Book Chat is an application that allows users to search for and join book clubs,
 ### GoodReads OAuth
 
 ### Book Notes
+
+## API Design 
+*Include endpoints with example JSON responses along with notes on what the included information is.*
+
