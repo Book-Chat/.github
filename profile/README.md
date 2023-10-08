@@ -9,6 +9,10 @@ Book Chat is an application that allows users to search for and join book clubs,
 
 ## MVP Project Goals 
 
+### Infrastructure
+- Backend will be written with Ruby on Rails
+- 
+
 ### Create basic webpage where users can view a book club and see what book is being read this month. 
  - The webpage will feature the title and other metadata about the book, which will require an API call to the GoodReads API.
  - Single page app, with picture of book, title and month.
@@ -56,3 +60,5 @@ Book Chat is an application that allows users to search for and join book clubs,
 ## API Design 
 *Include endpoints with example JSON responses along with notes on what the included information is.*
 
+## Contributing 
+*Include how to setup locally, run tests (separate out integration tests or not) and make PRs*
