@@ -1,8 +1,7 @@
 # Book Chat
 
 ## Description
-
-Book Chat is an application that allows users to search for and join book clubs, create book clubs, and take notes on their reading.
+Book clubs are often disorganized and difficult to find. Book Chat is an application that allows users to search for and join book clubs, create and manage book clubs and take notes on their reading. 
 
 ## Schema
 <img width="1032" alt="Screenshot 2023-10-12 at 4 41 36 PM" src="https://github.com/Book-Chat/.github/assets/125829749/fce52052-7cf3-4d19-b1ff-55aff7d4251d">
