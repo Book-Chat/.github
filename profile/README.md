@@ -9,9 +9,10 @@ Book clubs are often disorganized and difficult to find. Book Chat is an applica
 ## MVP Project Goals 
 
 ### Infrastructure
-- Backend will be written with Ruby on Rails
+- Backend will a RESTful API written with Ruby on Rails
 - Frontend will be Ruby with Turboframes and Tailwind
-- 
+- CircleCI for CI/CD
+- Hosting with AWS
 
 ### Create basic webpage where users can view a book club and see what book is being read this month. 
  - The webpage will feature the title and other metadata about the book, which will require an API call to the GoodReads API.
@@ -45,7 +46,9 @@ Book clubs are often disorganized and difficult to find. Book Chat is an applica
 - Book club owners and site admins can delete messages.
 
 ### Book Club Chats
-- 
+- Book club owners have the optino to create a new chat channel for each book read.
+- Chat channels will allow users to reply in thread.
+- Users can DM other book club members
 
 ### Private Book Clubs
 - 
