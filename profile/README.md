@@ -51,17 +51,21 @@ Book clubs are often disorganized and difficult to find. Book Chat is an applica
 - Users can DM other book club members
 
 ### Private Book Clubs
-- 
+- Book club owners can choose to make their book club discoverable for anyone to join or private so that members can only join by invitation.
 
 ### Search Book Clubs
-- No account can search and view book clubs
+- Users without an account can search and view book clubs.
+- Users can search for book clubs based on location, books on the book list, genre(s) and special interest(s) (LGBTQ+, Women's club, etc.).
 
 ### GoodReads OAuth
+- Users can sign in with GoodReads and import currently reading and other book list as well as submit and view their reviews.
 
 ### Book Notes
 - Users can take notes on their reading. 
 
 ### Autogenerate meetings
+- Users can input a date, time and frequency of their book club meetings and select number of meetings to autogenerate.
+- With meeting autogeneration, users can select how they want to pair a book from their book list with each meeting. Random, by rating, voting, etc.
 
 ## API Design 
 *Include endpoints with example JSON responses along with notes on what the included information is.*
