@@ -15,10 +15,10 @@ Book clubs are often disorganized and difficult to find. Book Chat is an applica
 - Hosting with AWS
 
 ### Create basic webpage where users can view a book club and see what book is being read this month. 
- - The webpage will feature the title and other metadata about the book, which will require an API call to the GoodReads API.
+ - The webpage will feature the title and other metadata about the book, which will require an API call to the Google Books API.
  - Single page app, with picture of book, title and month.
  - Interface to Book Chat will consist of get/post/patch
- - Backend will need simple DB and get to GoodReads API
+ - Backend will need simple DB and get to Google Books API
  - No user auth will be performed at this point.
 
 ### User Login 
@@ -59,6 +59,9 @@ Book clubs are often disorganized and difficult to find. Book Chat is an applica
 
 ### GoodReads OAuth
 - Users can sign in with GoodReads and import currently reading and other book list as well as submit and view their reviews.
+
+### Google OAuth
+- Users can sign in with Google and import Google Books lists as well as submit and view their reviews.
 
 ### Book Notes
 - Users can take notes on their reading. 
