@@ -6,6 +6,7 @@ Book clubs are often disorganized and difficult to find. Book Chat is an applica
 ## Schema
 <img width="1032" alt="Screenshot 2023-10-12 at 4 41 36 PM" src="https://github.com/Book-Chat/.github/assets/125829749/fce52052-7cf3-4d19-b1ff-55aff7d4251d">
 
+*Removing ratings field from Books table. This information will be acquired from API call.*
 ## MVP Project Goals 
 
 ### Infrastructure
